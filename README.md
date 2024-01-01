@@ -4,6 +4,9 @@
 The "Tic-Tac-Toe Game" project is an implementation of the traditional Tic-Tac-Toe game in Python, designed to provide an engaging and interactive gaming experience. This project comprises a series of well-structured functions that collectively allow two players to engage in a game of Tic-Tac-Toe. The project's primary goal is to offer an engaging and entertaining platform for users to play the classic game, following the fundamental rules and mechanics associated with Tic-Tac-Toe.
 Each player chooses between X and O and the first player starts to draw the X on the space on the grid followed alternatively by the other until a player successfully marks a streak on the grid else if all spaces are filled the game is set to draw.
 
+![Captureg](https://github.com/ArpitaSatsangi/Tic-Tac-Toe-Game/assets/107709451/b3037652-0525-4b42-bd49-6da677ad9209)
+
+
 ## Key Features:
 1. **Displaying the Game Board:** The project begins by creating a game board, represented as a list of spaces, with each index corresponding to a number on a number pad. The `display_board` function presents the current state of the game board with updated marker placements after each turn.
 
